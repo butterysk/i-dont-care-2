@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "isaac-playground-defender",
+"dataUrl": "416b9bf30532f5351d5b8a1a0c8e3832.unityweb",
+"wasmCodeUrl": "382f05f3d7301e1cca719abefe22876d.unityweb",
+"wasmFrameworkUrl": "f1f7cbe3e01b6f65c5e81b8cce99e32f.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728",
+"cacheControl": {"default": "must-revalidate"}
+}
